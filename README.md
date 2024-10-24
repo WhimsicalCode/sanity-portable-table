@@ -1,3 +1,9 @@
+# Fork info
+
+An attempt to fix [Error: Cannot resolve a DOM node from Slate node when using plugin with default config](https://github.com/davydog187/sanity-portable-table/issues/16).
+
+---
+
 # sanity-plugin-portable-table
 
 A table plugin for [Sanity Studio v3]() that supports [Portable Text](https://www.sanity.io/docs/presenting-block-text) cells.
